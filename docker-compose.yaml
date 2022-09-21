@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  zoox-elyra-runtime:
+    image: cbevilaqua/zoox-elyra-runtime:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
