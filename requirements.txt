@@ -1,7 +1,15 @@
+#aiohttp==3.8.2
+#yarl==1.8.1
+#frozenlist==1.3.1
+
+
+packaging<22
+
+
 airflow-connections-manager==0.0.6
 beautifulsoup4==4.9.3
 tzdata
-pysqlite3==0.4.6
+# pysqlite3==0.4.6
 pymongo[srv]==3.11.3
 psycopg2-binary==2.9.1
 elasticsearch
@@ -17,7 +25,3 @@ selenium
 h2o
 statsmodels
 matplotlib
-#new
-pySmartDL
-validate-docbr
-rapidfuzz
