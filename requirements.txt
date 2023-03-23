@@ -10,9 +10,14 @@ awswrangler
 webdriver-manager
 pandas
 numpy
-sklearn
+#sklearn
+scikit-learn
 s3fs
 selenium
 h2o
 statsmodels
 matplotlib
+#new
+pySmartDL
+validate-docbr
+rapidfuzz
