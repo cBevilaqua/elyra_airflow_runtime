@@ -25,3 +25,7 @@ selenium
 h2o
 statsmodels
 matplotlib
+redshift-connector
+
+requests==2.27.1
+kubernetes==26.1.0
