@@ -20,12 +20,14 @@ pandas
 numpy
 #sklearn
 scikit-learn
+tenacity==8.3.0
 s3fs
 selenium
 h2o
 statsmodels
 matplotlib
 redshift-connector
+lxml_html_clean
 
 requests==2.27.1
 kubernetes==26.1.0
