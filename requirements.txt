@@ -31,3 +31,12 @@ lxml_html_clean
 
 requests==2.27.1
 kubernetes==26.1.0
+
+# ultimas ednario
+boto3
+pdfplumber
+pytesseract
+pdf2image
+pillow
+unidecode
+httplib2
